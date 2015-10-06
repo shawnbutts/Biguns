@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SIZES="1m 10m 100m 1g 10g 100g 1t"
+SIZES="1m 10m 100m 1g 10g 100g 1t 10tb 100tb"
 PV="/usr/bin/pv"
 
 for size in $SIZES; do
